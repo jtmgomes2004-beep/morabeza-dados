@@ -36,6 +36,6 @@ python -m morabeza.resumo data/vendas_amostra.csv
 
 ## Sobre mim
 Formador: João Gomes
-Ilha favorita: Sal
+Ilha favorita: Fogo
 
 
