@@ -34,8 +34,7 @@ bash obter_sessao.sh 2      # troca 2 pelo número da sessão
 python -m morabeza.resumo data/vendas_amostra.csv
 ```
 
-## Sobre mim
-Formador: João Gomes
-Ilha favorita: Fogo
+
+
 
 
